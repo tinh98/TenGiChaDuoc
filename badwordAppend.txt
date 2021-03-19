@@ -1,0 +1,2 @@
+\bcâm( )*mồm\b
+\bmồm( )*thối\b
