@@ -1,2 +1,94 @@
 \bcâm( )*mồm\b
 \bmồm( )*thối\b
+\bl(ồ|ô|o|0|i|ì|!|1|j)(l|n|z)\b
+\b(c|k)(a|ặ|ă|@|e|ẹ|3|u|ứ|ư|ú)(c|k|t)\b#cac kec cut
+\b(đ|d)(ụ|u|i|ĩ|ỉ|1|!|j|ẻ|e|ẽ|3)\b#đụ đĩ đẻ
+\b(đ|d)(ị|i|ệ|e|ê|3|1|!|j|í)(ch|t)\b#địt đít
+\b(đ|d)(á|a|@)(!|1|i|j)+\b#đái dái
+\b(c|k)(u|ụ)+\b
+\bc(c|l|m|đ|d)+\b
+\b(d|đ)(e|é|ế|ê|3)(u|o|0)+\b
+\bb(ú|u)\b
+\bn(u|ư|ứ)ng+\b
+\b(s|x)(ụ|u)(c|k)+\b
+\bc(h|k)(ị|i|j|!|1)(t|k|ch)+\b
+\bn(ệ|ê|3|e)n\b
+\bh(í|i|j|!|1)(ế|ê|e|3)*p\b
+\bm(o|0|ò)\b
+\bb(ó|o|0)p\b
+\b(l|đ|d)(í|i|1|!)(ế|e|3)*m\b
+\bm(ú|u)(t|c)\b
+\bm(!|ị|ỉ|ĩ|i|j|1)(a|@)?\b
+\b(ó|o|0)(j|i)\b
+\bb(u|ù)(ồ|o|0)?i\b
+\bkh(ấ|@|a)(t|c|k)\b
+\b(đ|d)(c|k)?m*\b
+\bv(c|k|l)+\b
+\bclgt\b
+\bl(e|è|3|ế|ề)u?\b
+\bb(í|i|1|j|!)m\b
+\b(duong|dương)(-| )+(vật|vat)\b
+\b(âm|am|@m)(-| )+(vật|vat|đạo|đao|dao)\b
+\bt(i|j|!|1)nh(-| )+(trùng|dịch|trung|dich|hoàn|hoan)\b
+\b(d|đ)(â|a|@)m(-| )?(dang|d@ng)?\b
+\bl(a|à|@)m(-| )+t(ì|i|j|1|!)nh\b
+\bqu?(ay|ei)(-| )+t(ay|ei)\b
+\bqwerty\b
+\bmông\b
+\b(v|d)(ú|ếu|u|eu)\b
+\bng(ự|ụ|u)(c|k|t)*\b
+\bv(é|e|3)t(-| )+m(a|á|@)ng\b
+\bch(i|j|1|!)m\b
+\bnh(ờ|ơ|o|0)n\b
+\bh(ú|u)p\b
+\bm(ó|o|ò)?c\b
+\bh(ậ|â|a|@)u(-| )+m(ô|o|0)n\b
+\bkh(o|ỏ|õ|0)(ả|ã|a|@)(-| )+th(â|a|@)n\b
+\btr(ầ|a|@)n(-| )+(tr|ch)u(ồ|o|0)ng\b
+\bl(õ|o|0)(ã|ả|@)(-| )+l(ồ|o|0)\b
+\bph(@|a)ng\b
+\bqu(ấ|á|a|@)t\b
+\b(ân|ái|an|ai){2,}\b
+\bl(ê|e|3)n(-| )+(đ|d)(ỉ|ĩ|i|!|1)nh\b
+\bđ(á|a|@)(-| )l(ư|u)(ơ|ỡ|o)(i|1|!)\b
+\b(s|x)(ị|i|j)p\b
+\b(s|x)(i|ì|j)(-| )?(líp|lip)?\b
+\bl(o|0)(ạ|a|@)n(-| )+lu(â|a|@)n\b
+\bb(í|i|1|!)(ế|e|3)*n\b
+\bph(ắ|a|@)ng\b
+\bti(ê|e|3)n(-| )+(s|x)(u|ư)\b
+\bkh(ố|o|0)n(-| )+n(ạ|a|@)n\b
+\bm(ấ|ắ|a|@)(t|c)(-| )+d(ạ|a|@)(j|i|y)\b
+\bc(ờ|o|0)?(-| )?h(ó|o|0)\b
+\bv(ô|o|0)(-| )+li(ê|e|3)m(-| )+(s|x)(ỉ|ĩ|i|1|!)\b
+\b(c|k)(â|a|@)m\b
+\bd(ở|o|0)(-| )+h(ơ|o|0)i\b
+\bkh(ù|u)(ng|m|n)\b
+\b(đ|d|th)i(ê|ế|e|3)n\b
+\bb(i|j|1|!)(ê|ế|e|3)n(-| )+th(á|a|@)(i|j|1|!)\b
+\bt(â|a|@)m(-| )+th(ầ|â|a|@)n\b
+\bth(ầ|â|a|@)n(-| )+k(i|j|1|!)nh\b
+\bl(u|ư|ụ){1,2}(-| )+(đ|d)(ạ|a|@)n\b
+\b(s|x)(ó|o|0)(c|k)(-| )+l(ọ|o|0)\b
+\bch(ế|e|3)t\b
+\b(đ|d)(ầ|a|@)u(-| )+th(a|@)i\b
+\bm(ẹ|e|3|á|a)\b
+\bph(â|a|@)n\b
+\b(s|x)(ộ|o|ô|0)n(-| )+l(à|a|@)(o|0)\b
+\b(ch|b)(a|@)\b
+\bb(ố|o|ô|0)\b
+\bn(ộ|ô|o|0)(i|j)\b
+\bng(o|0)(ạ|a|@)i\b
+\bm(õ|o|0)m*\b
+\bph(ê|ế|e|3)\b
+\bh(ã|ả|a|@)m\b
+\bv(ô|o|0)(-| )+d(ụ|u)ng\b
+\bkhuy(ế|e|3)t(-| )+t(ậ|a|â|@)(t|k|c)\b
+\bqu?(è|e|3)\b
+\bqq\b
+\b(d|đ)(u|uo|uô)(i|j|1|!)\b
+\bli(ệ|e|3)t\b
+\b(đ|d)(i|j|1|!)(ế|e|3)c\b
+\bgi(ế|e|3)t\b
+\bnh(ụ|u)(c|k)\b
+\bm(ồ|o|0)(-| )+c(ô|o|0)i\b
