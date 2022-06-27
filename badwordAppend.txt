@@ -1,4 +1,5 @@
 \bcâm( )*mồm\b
+\bchóa\b
 \bmồm( )*thối\b
 \bl(ồ|ô|o|0|i|ì|!|1|j)(l|n|z)\b
 \b(c|k)(a|ặ|ă|@|e|ẹ|3|u|ứ|ư|ú)(c|k|t)\b#cac kec cut
